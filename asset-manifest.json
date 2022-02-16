@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-challenge-week/static/css/main.559772d7.css",
+    "main.js": "/scrimba-challenge-week/static/js/main.f4e2083a.js",
+    "index.html": "/scrimba-challenge-week/index.html",
+    "main.559772d7.css.map": "/scrimba-challenge-week/static/css/main.559772d7.css.map",
+    "main.f4e2083a.js.map": "/scrimba-challenge-week/static/js/main.f4e2083a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559772d7.css",
+    "static/js/main.f4e2083a.js"
+  ]
+}
