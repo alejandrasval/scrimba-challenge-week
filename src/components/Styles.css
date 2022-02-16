@@ -1,0 +1,39 @@
+.container,
+.container-greetings {
+  background-color: #fdffbc;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Nunito", sans-serif;
+}
+
+.container-greetings {
+  background-color: #bee5d3;
+}
+
+.container-balloons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+select {
+  margin: 20px;
+  width: 250px;
+  border-radius: 10px;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  font-size: 14px;
+  border: 1px solid grey;
+  padding: 2px;
+}
+
+.container-greetings > input {
+  height: 20px;
+  width: 250px;
+  border-radius: 10px;
+  border: 1px solid grey;
+  margin: 20px;
+}
