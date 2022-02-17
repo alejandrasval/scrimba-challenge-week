@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/scrimba-challenge-week/static/css/main.559772d7.css",
-    "main.js": "/scrimba-challenge-week/static/js/main.f4e2083a.js",
+    "main.css": "/scrimba-challenge-week/static/css/main.4a7c233b.css",
+    "main.js": "/scrimba-challenge-week/static/js/main.17e1bff5.js",
     "index.html": "/scrimba-challenge-week/index.html",
-    "main.559772d7.css.map": "/scrimba-challenge-week/static/css/main.559772d7.css.map",
-    "main.f4e2083a.js.map": "/scrimba-challenge-week/static/js/main.f4e2083a.js.map"
+    "main.4a7c233b.css.map": "/scrimba-challenge-week/static/css/main.4a7c233b.css.map",
+    "main.17e1bff5.js.map": "/scrimba-challenge-week/static/js/main.17e1bff5.js.map"
   },
   "entrypoints": [
-    "static/css/main.559772d7.css",
-    "static/js/main.f4e2083a.js"
+    "static/css/main.4a7c233b.css",
+    "static/js/main.17e1bff5.js"
   ]
 }
